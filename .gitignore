@@ -1,0 +1,6 @@
+build_resume.py
+capture_site.py
+fetch_img.py
+__pycache__/
+*.pyc
+.claude/
